@@ -23,6 +23,7 @@ Folgende XML-Grundstruktur sollte jedes Dokument enthalten:
 
 ## Gattungen
 
+### Neue Gattung
 
 ### Briefe
 
